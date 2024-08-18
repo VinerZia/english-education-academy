@@ -5,6 +5,18 @@
     --dark: #181d38;
 }
 
+
+
+.logo{
+    width: 75px;
+    height: 75px;
+}
+#Logo-text{
+    background-image: linear-gradient(45deg, #06BBCC, rgb(86, 213, 18), rgb(255, 157, 0));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .fw-medium {
     font-weight: 600 !important;
 }
@@ -212,6 +224,8 @@
 }
 .mb-4{
  color: orange;
+}
+img-banner{
 }
 
 
