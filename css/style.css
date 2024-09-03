@@ -16,6 +16,9 @@
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.img-banner{
+    width: 100%;
+}
 
 .fw-medium {
     font-weight: 600 !important;
